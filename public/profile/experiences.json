@@ -1,0 +1,52 @@
+{
+    "experiences": [
+        {
+            "title": "Test Automation Engineer",
+            "subtitle": "Ford Motor Company",
+            "workType": "Full-time",
+            "workDescription": [
+                "Worked closely with development teams to design testcases and test plans, using High Level Design Documents",
+                "Helped design, develop, and enhance a full Automation Framework to incorporate Sanity and Functional tests, using the Slash/Pytest Testing Framework",
+                "Designed setup/teardown Slash fixtures that accept arguments defined within the test case itself, such that the setup/teardown phase can be customizable based on the test type",
+                "Developed native Python scripts to come up with Sanity and Functional tests for embedded applications",
+                "Experience setting up Linux-based Ubuntu VM and starting Docker containers to create an environment to deploy apps",
+                "Worked on setting up a full Jenkins Automation test suite by setting up the environment on a Jenkins Lab Server and integrating TestRail testcases with the Jenkins Lab Server",
+                "Maintained and monitored daily Jenkins’s job to spot failures related to Jenkins set up (e.g., Groovy script maintenance)"
+            ],
+            "dateText": "12/2021 – Present"
+        },
+        {
+            "title": "QA Automation Specialist",
+            "subtitle": "Rockport Networks Inc.",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed and executed automated test scripts using Python for networking software products",
+                "Debugged test failures, worked closely with the Software Development Teams, and reported software bugs in JIRA bug tracking system",
+                "Performed functional testing to ensure software products met customer requirements and standards",
+                "Worked with developers to identify and troubleshoot defects and improve software quality",
+                "Collaborated with cross-functional teams to ensure software products met performance and reliability standards",
+                "Developed and maintained test plans, test cases, and test scripts to ensure comprehensive test coverage",
+                "Supported our Dev-ops prime by triggering builds using Jenkins Pipeline",
+                "Carried out Manual Testing with Linux Shell scripts",
+                "Experience creating test suites using TestRail"
+
+            ],
+            "dateText": "05/2019 – 12/2021"
+        },
+        {
+            "title": "Radio Software Tester",
+            "subtitle": "Ericsson",
+            "workType": "Internship",
+            "workDescription": [
+                "Integrated and verified new features on the Ericsson LTE network used by US Telecom operators",
+                "Assessed the functionality of hardware devices using QXDM ProfessionalTM by Qualcomm",
+                "Worked collaboratively in a cross-functional agile team consisting of system engineers",
+                "Debugged a complex RF hardware Ericsson product used in lab nodal testing",
+                "Ran TCL scripts to check for hardware and software system sanity status",
+                "Working knowledge of UNIX, Windows and SHELL environments",
+                "Monitored hardware device performance using Signal Analyzers"
+            ],
+            "dateText": "01/2018 – 08/2018"
+        }
+    ]
+}

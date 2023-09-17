@@ -1,0 +1,13 @@
+{
+    "education":[
+        {
+            "title": "Sep 2014 - Jun 2019",
+            "cardTitle": "B.Eng, Biomedical and Electrical Engineering",
+            "cardSubtitle":"Carleton University, Ottawa",
+            "cardDetailedText": "CGPA - 11.19/12",
+            "icon" : {
+                "src": "images/education/carleton-logo.png"
+            }
+        }
+    ]
+}

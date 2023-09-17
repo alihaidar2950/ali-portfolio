@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/alihaidar2950/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/alihaidar2950"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:alihaidar2950@gmail.com"
+        }
+    ]
+}
