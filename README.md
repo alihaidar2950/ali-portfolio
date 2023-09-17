@@ -10,6 +10,7 @@
 
 ## Authors
 
+Inspired by mayankagarwal09
 
 
 ## License 📄
