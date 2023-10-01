@@ -5,6 +5,7 @@
             "subtitle": "Ford Motor Company",
             "workType": "Full-time",
             "workDescription": [
+                "Developed and written an automation test suite using OOP practices in Python that enabled testers to write testcases that are modular and resusable",
                 "Worked closely with development teams to design testcases and test plans, using High Level Design Documents",
                 "Helped design, develop, and enhance a full Automation Framework to incorporate Sanity and Functional tests, using the Slash/Pytest Testing Framework",
                 "Designed setup/teardown Slash fixtures that accept arguments defined within the test case itself, such that the setup/teardown phase can be customizable based on the test type",
