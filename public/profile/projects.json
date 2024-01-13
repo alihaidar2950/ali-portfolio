@@ -31,6 +31,22 @@
         }
       ],
       "tags": ["React", "JavaScript"]
+    },
+    {
+      "image": "images/projects/almost-final-countdown.png",
+      "title": "The Almost Final Countdown",
+      "bodyText": "- Stop the timer once you estimate that time is (almost) up\n",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/alihaidar2950/almost-final-countdown"
+        },
+        {
+          "text": "Live",
+          "href": "https://almost-final-countdown.vercel.app/"
+        }
+      ],
+      "tags": ["React", "JavaScript"]
     }
   ]
 }
